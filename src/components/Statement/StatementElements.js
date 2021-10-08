@@ -113,3 +113,15 @@ export const NavBtnLink = styled(LinkR)`
     color: #010606;
   }
 `;
+
+export const SubtitleBlue = styled.p`
+  padding-left: 27%;
+  justify-content: center;
+  max-width: 440px;
+  margin-bottom: 35px;
+  font-size: 40px;
+  line-height: 24px;
+  color: #23cbf1;
+  font-family: "GTWalsheimProBold";
+
+`;
